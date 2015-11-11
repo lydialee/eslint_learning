@@ -1,0 +1,11 @@
+{
+  "name": "eslint_learning",
+  "version": "0.0.0",
+  "description": "eslint_learning",
+  "private": false,
+  "dependencies": {
+    "gulp": "3.9.0",
+    "gulp-eslint": "1.0.0",
+    "eslint-plugin-react": "3.6.3"
+  }
+}
